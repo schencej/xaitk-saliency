@@ -1,1 +1,2 @@
 *.rst conflict-marker-size=79
+*.ipynb filter=removeKernelspec
